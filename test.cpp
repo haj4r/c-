@@ -12,7 +12,8 @@ int main()
 	  { 
 	  	cout<< "aisle 1-12" << endl;
 	  } 
-	  else if (location != "Scarfs") {
+	  else if (location != "Scarfs")//condition
+	  {
 	  	cout << "Error" << endl;
 		}
   return 0 ;
